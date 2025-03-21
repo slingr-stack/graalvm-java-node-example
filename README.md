@@ -12,7 +12,7 @@ This repository demonstrates how to call a Node.js library from a Java applicati
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/sebasmoyano/graalvm-java-node-example.git
+    git clone https://github.com/slingr-stack/graalvm-java-node-example.git
     cd graalvm-java-node-example
     ```
 
@@ -41,7 +41,3 @@ This repository demonstrates how to call a Node.js library from a Java applicati
 - `src/main/java/com/example/NodeJsExample.java`: Java code to call the Node.js library.
 - `src/main/resources/package.json`: Node.js dependencies.
 - `pom.xml`: Maven configuration file.
-
-## License
-
-This project is licensed under the MIT License.
