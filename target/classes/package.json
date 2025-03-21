@@ -1,0 +1,14 @@
+{
+  "name": "graalvm-java-node-example",
+  "version": "1.0.0",
+  "description": "A simple example of calling a Node.js library from Java using GraalVM",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
