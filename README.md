@@ -4,7 +4,7 @@ This repository demonstrates how to call a Node.js library from a Java applicati
 
 ## Prerequisites
 
-- GraalVM installed
+- Java 11 installed
 - Maven installed
 
 ## Setup
