@@ -15,7 +15,6 @@ public class NodeJsExample {
             context.eval("js", "var lodashLib = require('lodash');");
             // Call a function from the Node.js library
             Value result = context.eval("js", "lodashLib.camelCase('hello world');");
-            // Print the result
             System.out.println(result.asString());
         }
     }
